@@ -5,7 +5,10 @@
 				<div class="col-md-3 col-sm-6 col-xs-12">
 					<div class="footer-section1">
 						<h4 class="footer-head-line">About us</h4>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry.</p>
+
+						<p>Furnitura Inc., is an Importer and Distributor of good quality Office Furnitures. We have our own line/brand of furnitures at value unmatched by any other store. We broaden our offerings by also distributing products of other companies at an affordable price. 
+						Retailers and Wholesalers are welcome. We guarantee to give quality office furnishings at the absolute best prices. Thank you for considering Furnitura Inc. We look forward to serving you!</p>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry.</p> -->
 						<ul class="text-box">
 							<li> 
 								<i class="fa fa-envelope-o" aria-hidden="true"></i>
@@ -13,11 +16,15 @@
 							</li>
 							<li> 
 								<i class="fa fa-phone" aria-hidden="true"></i>
-								<span>P: 3333 222 1111</span>
+								<span>02-9987501</span>
+							</li>
+							<li> 
+								<i class="fa fa-mobile" aria-hidden="true"></i>
+								<span>093 9914 3889</span>
 							</li>
 							<li> 
 								<i class="fa fa-map-marker" aria-hidden="true"></i>
-								<span> 99 Barnard St States - GA 22222 </span>
+								<span> 687 EDSA Cubao Barangay E.Rodriguez QC.  </span>
 							</li>
 						</ul>
 					</div>
