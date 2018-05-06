@@ -292,24 +292,6 @@ get_header();
                 </div>
             </div>
         </section>
-        <!--//===Products-sectioon End==//-->
-        <!--//===banner-section Start==//-->
-        <section>
-            <div class="banner-section">
-                <div class="special-style special-style-full special-style-semidark col-md-12 col-md-offset-0 pull-right">
-                    <div class="bg-image" style="background-image:url('<?=get_template_directory_uri()?>/assets/img/slider/banner1.jpg');"></div>
-                </div>
-                <div class="container pad-top-bottom130">
-                    <div class="banner-text-box">
-                        <h1 class="text-center">The ultimate in luxury and style.</h1>
-                        <p>Flat 15% off on Modern couch</p>
-                        <a href="collection-list-sidebar.html" class="itg-button mar-top20">Shop Now</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--//===banner-section End==//-->
-        <!--//===Categories-section Start==//-->
         <section>
             <div class="Categories-box pad-top80 pad-bottom80">
                 <div class="container">
